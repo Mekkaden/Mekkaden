@@ -1,22 +1,21 @@
-```bash
-$ whoami
-Richard
+<h1 align="center">RICHARD</h1>
+<h4 align="center">Software Developer</h4>
 
-$ cat mission_statement.txt
-hello I am Richard, and I love to build clean, usable projects that actually make a difference in the world
-```
+> *Building clean, usable projects that actually make a difference in the world.*
 
 ---
 
-### `> ongoing public projects`
+## ONGOING PUBLIC PROJECTS
 
-* **SKILLNET** : a peer-to-peer campus marketplace built for students to buy, sell, and offer services
-* **Decision-Room** : a web app that helps users make tough choices using the Law of Regrets
-* **Gym-logger-app** : personal offline-first workout logger (AI-assisted)
+* **SKILLNET** : A peer-to-peer campus marketplace built for students to buy, sell, and offer services
+* **Decision-Room** : A web app that helps users make tough choices using the Law of Regrets
+* **Gym-logger-app** : Personal offline-first workout logger (AI-assisted)
 
-### `> tech stack :P`
+<br>
 
-I've been focusing heavily on building full-stack web apps. Right now, my go-to is the PERN stack. 
+## TECH STACK
+
+I've been focusing heavily on building full-stack web apps. Right now, my go-to is the PERN stack.
 
 <br>
 <p align="left">
@@ -24,7 +23,7 @@ I've been focusing heavily on building full-stack web apps. Right now, my go-to 
 </p>
 <br>
 
-### `> tools and stuff :P`
+## TOOLS & ARSENAL
 
 I'm comfortable moving around the terminal and managing my own environments. Also, outside of coding, I know serious video and photo editing—mostly living in After Effects.
 
