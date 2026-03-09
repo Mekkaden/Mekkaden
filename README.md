@@ -1,16 +1,20 @@
-<h2 align="center">Mekkaden</h2>
+```bash
+$ whoami
+Richard
 
-<p align="center">Hello, I am Richard, and I love to build clean, usable projects that actually make a difference in the world</p>
+$ cat mission_statement.txt
+hello I am Richard, and I love to build clean, usable projects that actually make a difference in the world
+```
 
 ---
 
-### Ongoing Public Projects
+### `> ongoing public projects`
 
 * **SKILLNET** : a peer-to-peer campus marketplace built for students to buy, sell, and offer services
 * **Decision-Room** : a web app that helps users make tough choices using the Law of Regrets
 * **Gym-logger-app** : personal offline-first workout logger (AI-assisted)
 
-### Tech Stack 
+### `> tech stack :P`
 
 I've been focusing heavily on building full-stack web apps. Right now, my go-to is the PERN stack. 
 
@@ -20,7 +24,7 @@ I've been focusing heavily on building full-stack web apps. Right now, my go-to 
 </p>
 <br>
 
-### Tools
+### `> tools and stuff :P`
 
 I'm comfortable moving around the terminal and managing my own environments. Also, outside of coding, I know serious video and photo editing—mostly living in After Effects.
 
