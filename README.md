@@ -20,7 +20,6 @@ I've been focusing heavily on building full-stack web apps, moving between the P
 <br>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,postgres,mongo,java,c" alt="Tech Stack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" />
 </p>
 <br>
 
@@ -30,6 +29,6 @@ I'm comfortable moving around the terminal, managing my own environments, and sh
 
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,android,vercel,ae" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,android,ae" alt="Tools" />
 </p>
 <br>
