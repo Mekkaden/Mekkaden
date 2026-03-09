@@ -26,7 +26,7 @@ I've been focusing heavily on building full stack web apps, moving between the P
 
 ## TOOLS
 
-I'm comfortable moving around the terminal, managing my own environments, and shipping deployments fast via Vercel and Render. Outside of coding, I handle serious video and photo editing, mostly living in After Effects. I'm also big into Android modding: rooting devices, messing with Fastboot/TWRP, and currently daily driving crDroid.
+I'm comfortable moving around the terminal, managing my own environments, and shipping deployments fast via Vercel and Render. Outside of coding, I handle serious video and photo editing, mostly living in After Effects. I'm also  into Android modding : rooting devices, messing with Fastboot/TWRP, and currently daily driving crDroid.
 
 <br>
 <p align="left">
