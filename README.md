@@ -1,5 +1,5 @@
 <h1 align="center">RICHARD</h1>
-<h4 align="center">Software Developer</h4>
+<h4 align="center">Software Builder | Tech Entrepreneur</h4>
 
 > *Building clean, usable projects that actually make a difference in the world.*
 
