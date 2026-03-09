@@ -7,9 +7,9 @@
 
 ## ONGOING PUBLIC PROJECTS
 
-* **SKILLNET** : A peer-to-peer campus marketplace built for students to buy, sell, and offer services
-* **Decision-Room** : A web app that helps users make tough choices using the Law of Regrets
-* **Gym-logger-app** : Personal offline-first workout logger (AI-assisted)
+* **SKILLNET** : A peer to peer campus marketplace built for students to buy, sell, and offer services
+* **Decision Room** : A web app that helps users make tough choices using the Law of Regrets
+* **Gym logger app** : Personal offline first workout logger (AI assisted)
 
 <br>
 
@@ -24,9 +24,9 @@ I've been focusing heavily on building full-stack web apps, moving between the P
 </p>
 <br>
 
-## TOOLS, ARSENAL & TINKERING
+## TOOLS, ARSENAL
 
-I'm comfortable moving around the terminal, managing my own environments, and shipping deployments fast via Vercel and Render. Outside of coding, I handle serious video and photo editing—mostly living in After Effects. I'm also big into Android modding: rooting devices, messing with Fastboot/TWRP, and currently daily-driving crDroid.
+I'm comfortable moving around the terminal, managing my own environments, and shipping deployments fast via Vercel and Render. Outside of coding, I handle serious video and photo editing—mostly living in After Effects. I'm also big into Android modding: rooting devices, messing with Fastboot/TWRP, and currently daily driving crDroid.
 
 <br>
 <p align="left">
