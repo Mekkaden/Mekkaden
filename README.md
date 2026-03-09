@@ -15,20 +15,20 @@
 
 ## TECH STACK
 
-I've been focusing heavily on building full-stack web apps. Right now, my go-to is the PERN stack, and I also build with Java.
+I've been focusing heavily on building full-stack web apps, moving between the PERN and MERN stacks, and styling with Tailwind. I also build out core logic and system-level stuff with C and Java when needed.
 
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,postgres,nodejs,java" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,postgres,mongo,java,c" alt="Tech Stack" />
 </p>
 <br>
 
 ## TOOLS & ARSENAL
 
-I'm comfortable moving around the terminal and managing my own environments. Also, outside of coding, I know serious video and photo editing—mostly living in After Effects.
+I'm comfortable moving around the terminal, managing my own environments, and shipping deployments fast via Vercel and Render. Also, outside of coding, I handle serious video and photo editing—mostly living in After Effects.
 
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,ae" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,vercel,ae" alt="Tools" />
 </p>
 <br>
