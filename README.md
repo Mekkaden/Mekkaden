@@ -26,11 +26,13 @@ I've been focusing heavily on building full stack web apps, moving between the P
 
 ## TOOLS
 
-I'm comfortable moving around the terminal, managing my own environments, and shipping deployments fast via Vercel and Render. Outside of coding, I handle serious video and photo editing—mostly living in After Effects. I'm also big into Android modding: rooting devices, messing with Fastboot/TWRP, and currently daily driving crDroid.
+I'm comfortable moving around the terminal, managing my own environments, and shipping deployments fast via Vercel and Render. Outside of coding, I handle serious video and photo editing,mostly living in After Effects. I'm also big into Android modding: rooting devices, messing with Fastboot/TWRP, and currently daily driving crDroid.
 
 <br>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,ae" alt="Tools" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" height="48" />
+  <img src="https://cdn.simpleicons.org/vercel/white" alt="Vercel" height="48" />
+  <img src="https://cdn.simpleicons.org/render/white" alt="Render" height="48" />
 </p>
 <br>
