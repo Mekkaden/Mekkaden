@@ -4,7 +4,7 @@
 
 ---
 
-### ongoing public projects
+### Ongoing Public Projects
 
 * **SKILLNET** : a peer-to-peer campus marketplace built for students to buy, sell, and offer services
 * **Decision-Room** : a web app that helps users make tough choices using the Law of Regrets
