@@ -15,11 +15,11 @@
 
 ## TECH STACK
 
-I've been focusing heavily on building full-stack web apps, moving between the PERN and MERN stacks, and styling with Tailwind. I also build out core logic and system-level stuff with C and Java when needed.
+I've been focusing heavily on building full-stack web apps, moving between the PERN and MERN stacks, and styling with Tailwind. I also manage databases like Oracle, and build out core logic and system-level stuff with C and Java when needed.
 
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,postgres,mongo,java,c" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,postgres,mongo,oracle,java,c" alt="Tech Stack" />
 </p>
 <br>
 
