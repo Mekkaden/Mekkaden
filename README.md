@@ -1,6 +1,6 @@
 <h2 align="center">Mekkaden</h2>
 
-<p align="center">hello I am Richard, and I love to build clean, usable projects that actually make a difference in the world</p>
+<p align="center">Hello, I am Richard, and I love to build clean, usable projects that actually make a difference in the world</p>
 
 ---
 
