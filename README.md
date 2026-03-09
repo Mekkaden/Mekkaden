@@ -15,7 +15,7 @@
 
 ## TECH STACK
 
-I've been focusing heavily on building full-stack web apps, moving between the PERN and MERN stacks, and styling with Tailwind. I also manage databases like Oracle, and build out core logic and system-level stuff with C and Java when needed.
+I've been focusing heavily on building full stack web apps, moving between the PERN and MERN stacks, and styling with Tailwind. I also manage databases like Oracle, and build out core logic and system level stuff with C and Java when needed.
 
 <br>
 <p align="left">
