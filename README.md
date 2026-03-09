@@ -24,7 +24,7 @@ I've been focusing heavily on building full-stack web apps, moving between the P
 </p>
 <br>
 
-## TOOLS, ARSENAL
+## TOOLS
 
 I'm comfortable moving around the terminal, managing my own environments, and shipping deployments fast via Vercel and Render. Outside of coding, I handle serious video and photo editing—mostly living in After Effects. I'm also big into Android modding: rooting devices, messing with Fastboot/TWRP, and currently daily driving crDroid.
 
