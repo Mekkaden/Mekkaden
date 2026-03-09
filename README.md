@@ -15,11 +15,11 @@
 
 ## TECH STACK
 
-I've been focusing heavily on building full-stack web apps. Right now, my go-to is the PERN stack.
+I've been focusing heavily on building full-stack web apps. Right now, my go-to is the PERN stack, and I also build with Java.
 
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,postgres,nodejs" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,postgres,nodejs,java" alt="Tech Stack" />
 </p>
 <br>
 
