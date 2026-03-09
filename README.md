@@ -1,6 +1,4 @@
-<h2 align="center">Mekkaden</h2>
-
-<p align="center">hello I am Mekkaden , and I love building clean software and functional tools</p>
+<h2 align="center">Hello I am Richard</h2>
 
 ---
 
