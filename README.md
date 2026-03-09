@@ -1,4 +1,6 @@
-<h2 align="center">Hello I am Richard</h2>
+<h2 align="center">Mekkaden</h2>
+
+<p align="center">hello I am Richard, and I love to build clean, usable projects that actually make a difference in the world</p>
 
 ---
 
@@ -10,18 +12,20 @@
 
 ### tech stack :P
 
-I've been focusing heavily on building full-stack web apps, and I'm currently in the process of learning React Native for mobile development. 
+I've been focusing heavily on building full-stack web apps. Right now, my go-to is the PERN stack. 
 
-React and Node.js are my go-to for the web, and I've recently been using PostgreSQL as my main database for projects like Skillnet. I also still write a bit of C for core system stuff when needed.
-
+<br>
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://skillicons.dev/icons?i=js,react,postgres,nodejs" alt="Tech Stack" />
 </p>
+<br>
 
 ### tools and stuff :P
 
-I do most of my development on a MacBook M2 Air, keeping things fast and portable. For editors, I stick to the essentials like VS Code.
+I'm comfortable moving around the terminal and managing my own environments. Also, outside of coding, I know serious video and photo editing—mostly living in After Effects.
+
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,ae" alt="Tools" />
+</p>
+<br>
