@@ -1,7 +1,7 @@
 <h1 align="center">RICHARD</h1>
 <h4 align="center">Software Builder | Tech Entrepreneur</h4>
 
-> * I love to build clean,usable projects that actually make a difference in the world.*
+> * I love to build clean,usable projects.*
 
 ---
 
