@@ -7,9 +7,13 @@
 
 ## ONGOING PUBLIC PROJECTS
 
-* **SKILLNET** : A peer to peer campus marketplace built for students to buy, sell, and offer services
-* **Decision Room** : A web app that helps users make tough choices using the Law of Regrets
-* **Gym logger app** : Personal offline first workout logger (AI assisted)
+* **Campus Facility Portal** : A secure campus feedback portal featuring one-way cryptographic hashing for user privacy and AI driven content moderation.
+
+* **SKILLNET** : A peer to peer campus marketplace built for students to buy, sell, and offer services.
+
+* **Decision Room** : A web app that helps users make tough choices using the Law of Regrets.
+
+* **Gym Logger App** : A personal offline first workout logger with AI assisted tracking and insights.
 
 <br>
 
