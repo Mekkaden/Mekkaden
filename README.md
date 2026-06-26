@@ -6,6 +6,8 @@
 
 ## ONGOING PUBLIC PROJECTS
 
+* **PETSYNC** : A fullstack multimodal RAG architecture that translates visual canine skin conditions into localized Indian treatment protocols. Built using a contrastive linear projection bridge between Inhouse ViT and BERT models , backed by a knowledge grounded Maker Checker data synthesis pipeline.
+
 * **Campus Facility Portal** : A secure campus feedback portal featuring one-way cryptographic hashing for user privacy and AI driven content moderation.
 
 * **SKILLSPHERE** : A peer to peer campus marketplace built for students to buy, sell, and offer services.
