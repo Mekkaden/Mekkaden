@@ -1,6 +1,6 @@
 <h1 align="center">RICHARD</h1>
 
-> * I Love to Build Clean,Usable Projects.*
+>  I Love to Build Clean,Usable Projects.
 
 ---
 
